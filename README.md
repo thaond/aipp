@@ -8,6 +8,9 @@ Parser for aeronautical information available online.
 
 This gem incluces executables to download and parse aeronautical information (HTML, PDF, XSLX, ODS and CSV), then build and export is as [AIXM](https://github.com/svoop/aixm) or [OFMX](https://github.com/openflightmaps/ofmx/wiki).
 
+> [!IMPORTANT]
+> For personal reasons, I am no longer contributing to Open Flightmaps and therefore this gem is now archived and will not be updated anymore. Feel free to contact me if you want to revive or sponsor it.
+
 * [Homepage](https://github.com/svoop/aipp)
 * [Rubydoc](https://www.rubydoc.info/gems/aipp/AIPP)
 * Author: [Sven Schwyn - Bitcetera](https://bitcetera.com)
