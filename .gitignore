@@ -1,30 +1,40 @@
-# macOS
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.asc
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# OS
 .DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+.env
+.env.local
 
-# direnv
-.direnv
-.envrc
+# Build
+dist/
+build/
+*.jar
+*.zip
 
-# Editors
-.nova
-.vscode
-*.sublime*
-
-# Ruby
-gems.locked
-pkg/*
-*.gem
-.bundle
-.yardoc
-
-# Data
-/crossload
-/*.aixm
-/*.ofmx
-/*.xml
-/*.html
-/*.pdf
-/*.xlsx
-/*.ods
-/*.csv
-/*.zip
+# Cache and storage
+.aipp/
+cache/
+*.log
